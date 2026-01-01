@@ -1,0 +1,68 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: aquamarine;
+}
+
+.header {
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 70px;
+    margin: 20px 400px;
+    background-color: bisque;
+    outline: 2px solid navy;
+    border-radius: 10px;
+}
+
+.background {
+    outline: 2px solid navy;
+    border-radius: 15px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: bisque;
+}
+
+a {
+    background-color: bisque;
+    margin: 15px;
+}
+
+p {
+    margin-top: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    display: inline-block;
+    background-color: bisque;
+    font-size: 30px;
+    color: navy;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.adobo {
+    margin-left: 115px;
+}
+
+.afritada {
+    margin-left: 240px;
+}
+
+.mechado {
+    margin-left: 280px;
+}
+
+img {
+   width: 400px;
+   height: 400px; 
+   outline: 2px solid navy;
+}
+
+img:hover {
+    opacity: 60%;
+}
+
+.first-image {
+    margin-left: 40px;
+}
